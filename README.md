@@ -1,8 +1,8 @@
 # WaffleSubmitter
-![Travis]()
+![Travis](https://travis-ci.org/sguzman/WaffleSubmitter.svg?branch=master)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![codecov]()
+[![codecov](https://codecov.io/gh/sguzman/WaffleSubmitter/branch/master/graph/badge.svg)](https://codecov.io/gh/sguzman/WaffleSubmitter)
 [![HitCount](http://hits.dwyl.io/sguzman/WaffleSubmitter.svg)](http://hits.dwyl.io/sguzman/WaffleSubmitter)
 
 
