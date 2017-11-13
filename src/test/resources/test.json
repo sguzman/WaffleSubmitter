@@ -15,7 +15,8 @@
           "color":"84b6eb",
           "default":true
         }
-      ]
+      ],
+      "msg": "This is a test. Please delete."
     }
   ]
 }
