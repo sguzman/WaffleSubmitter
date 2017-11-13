@@ -13,6 +13,9 @@ A small dirty Scala app that takes a JSON file as input and creates a ticket on 
 - Each item in the file should contain the following fields
 - - `assignee`
 - - `label`
+- - `msg`
+
+- The json object should be an object with a single element, `item`, that is an array of the previous objects
 
 - That is all
 
@@ -21,3 +24,4 @@ A small dirty Scala app that takes a JSON file as input and creates a ticket on 
 Actually one last thing. This app needs two things as command line args
 - The `Authorization` header value, indicated by `-a`
 - The name of json file, `-j`
+- Source of project, `-s`
