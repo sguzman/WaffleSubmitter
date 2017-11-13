@@ -15,3 +15,9 @@ A small dirty Scala app that takes a JSON file as input and creates a ticket on 
 - - `label`
 
 - That is all
+
+
+#### Input
+Actually one last thing. This app needs two things as command line args
+- The `Authorization` header value, indicated by `-a`
+- The name of json file, `-j`
