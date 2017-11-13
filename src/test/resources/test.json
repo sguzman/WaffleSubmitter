@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "assignee": [
+        {
+          "login": "sguzman",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6679733?v=4"
+        }
+      ],
+      "label": [
+        {
+          "id":719920114,
+          "url":"https://api.github.com/repos/sguzman/LeetCodeScala/labels/enhancement",
+          "name":"enhancement",
+          "color":"84b6eb",
+          "default":true
+        }
+      ]
+    }
+  ]
+}
